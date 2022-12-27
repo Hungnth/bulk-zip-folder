@@ -7,6 +7,9 @@ This script allows the user to zip all the subdirectories inside a given directo
 
 ## Usage
 1. Clone the repository or download the script.
+```commandline
+git clone https://github.com/Hungnth/bulk-zip-folder
+```
 2. Open a terminal and navigate to the directory where the script is located.
 3. Run the script using the following command:
 
